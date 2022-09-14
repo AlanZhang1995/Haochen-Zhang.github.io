@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Haochen Zhang"
   avatar           : "CanunSquare.png"
-  bio              : "Ph.D. student in Electrical and Computer Engineering at University of California, San Diego. Received Master degree from University of Science and Technology of China in 2020."
-  location         : "San Diego"
+  bio              : "Ph.D. student in ECE at UCSD. Master degree received from USTC in 2020."
+  location         : "San Diego, CA, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BOI3opEAAAAJ&hl=en"
-  email            : "haz035@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhanghaochen9502"
+  linkedin         : "zhanghaochen9502"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  email            : "haz035@ucsd.edu"
 
 
 # Reading Files
