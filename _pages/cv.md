@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **University of California San Diego**, Sept. 2020 - Present
-  * Ph.D in Electrical and Computer Engineering, Current Overall GPA: 4.0/4.0
+  * Ph.D in Electrical and Computer Engineering, Current overall GPA: 4.0/4.0
   * Advisor: Prof. [Truong Q. Nguyen](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=48)
   * Research: Deep learning based retinal image analysis
 
