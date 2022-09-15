@@ -48,7 +48,7 @@ Research Projects
   * ByteDance AI Lab @ Beijing, PI: Dr. [Zehuan Yuan](https://shallowyuan.github.io/)
   * Formulated unpaired SR training as a feature-level domain adaptation problem, where the given LR images can be regard as the inputs in target domain and the provided HR images can be seen as label in source domain. 
   * Adopted adversarial-based \textit{feature distribution alignment} to close the gap between source and target feature domains, and proposed several \textit{feature domain regularizations} to achieve better aligning performance as well as preserve image details for the downstream SR task. 
-  * This work has been published in ICCV 2021 [1].
+  * This work has been published in ICCV 2021 \ref{iccv21}.
   
 * **Tradeoff in Signal Restoration**,  Mar. 2019 – July. 2020
   * MOE-Microsoft Key Laboratory of Multimedia Computing and Communication @ USTC, PI: Dr. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)
@@ -78,4 +78,4 @@ Publications
 ======
 Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//publications/) page.
 
-[1] Wei Wang$\dagger$, \bf{Haochen Zhang}}$\dagger$, Zehuan Yuan*, Changhu Wang. ``[Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf),'' In \emph{ICCV}, Virtual. Oct.11-17, 2021.
+[1] \namedlabel{iccv21}{[1]} Wei Wang$$\dagger$$, \bf{Haochen Zhang}}$$\dagger$$, Zehuan Yuan$$^*$$, Changhu Wang. ``[Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf),'' In \emph{ICCV}, Virtual. Oct.11-17, 2021.
