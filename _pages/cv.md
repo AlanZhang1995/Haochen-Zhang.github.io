@@ -55,7 +55,7 @@ Research Projects
   * Analyzed the relationship among _signal fidelity_, _perceptual naturalness_ and _semantic quality_ in the image restoration tasks. Demonstrated a _tradeoff_ among the three metrics _theoretically_ and _experimentally_. 
   * This work has been published in NeurIPS 2019.
 
-* **{Video Super-Resolution and Inverse Tone-Mapping**,  Nov. 2019 – Jan. 2020
+* **Video Super-Resolution and Inverse Tone-Mapping**,  Nov. 2019 – Jan. 2020
   * MOE-Microsoft Key Laboratory of Multimedia Computing and Communication @ USTC, PI: Dr. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)
   * Participated in the 4K-HDR track of the first National Artificial Intelligence Challenge ([NAIC](https://naic.pcl.ac.cn/landingpage/2019/index.html)). 
   * After passing the preliminary (_super-resolution on noisy video_) and the semi-final (_video super-resolution + enhancement_) round, we entered the final round with the best performance. 
@@ -67,7 +67,7 @@ Research Projects
   * Tailored for two-stream action recognition networks, we developed SR methods for the spatial and temporal recognition respectively. On the one hand, we proposed_ an optical-flow guided weighted MSE_ to emphasize the reconstruction of moving objects. On the other hand, we proposed _a siamese network training strategy_ in order to guarantee the temporal continuity between consecutive frames. 
   * This work has been published in ICCV 2019.
 
-* **{Text Image Super-Resolution Tailored for OCR**,  Sept. 2016 – June 2017
+* **Text Image Super-Resolution Tailored for OCR**,  Sept. 2016 – June 2017
   * MOE-Microsoft Key Laboratory of Multimedia Computing and Communication @ USTC, PI: Dr. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)
   * Developed text image SR method to help optical character recognition (OCR). 
   * We proposed _an edge-based loss function_ for SR training and conducted model combination to further improve the performance. Besides, we also developed _an image padding method to refine the image boundaries during SR. 
@@ -78,4 +78,4 @@ Publications
 ======
 Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//publications/) page.
 
-[1] Wei Wang$$\dagger$$, **Haochen Zhang**$$\dagger$$, Zehuan Yuan$$^*$$, Changhu Wang. ``[Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf),'' In \emph{ICCV}, Virtual. Oct.11-17, 2021.
+[1] Wei Wang $^\dagger$, **Haochen Zhang** $^\dagger$, Zehuan Yuan $^*$, Changhu Wang. [Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf), In *ICCV*, Virtual. Oct.11-17, 2021.
