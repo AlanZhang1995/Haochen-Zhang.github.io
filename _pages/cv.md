@@ -86,4 +86,4 @@ Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//p
 
 [4] **Haochen Zhang**, Dong Liu $^*$, Zhiwei Xiong. [CNN-based Text Image Super-Resolution Tailored for OCR](https://ieeexplore.ieee.org/abstract/document/8305127), In *VCIP*, St. Petersburg, FL, USA. Dec.10-13, 2017. 
 
-( $^*$ denotes my advisor, $^\dagger$ denotes equal contribution co-author)
+<p align="right"> $^*$ denotes my advisor, $^\dagger$ denotes equal contribution co-author </p>
