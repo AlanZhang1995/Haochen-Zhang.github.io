@@ -1,11 +1,11 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+[comment]:---
+[comment]:layout: archive
+[comment]:title: "CV"
+[comment]:permalink: /cv/
+[comment]:author_profile: true
+[comment]:redirect_from:
+[comment]:  - /resume
+[comment]:---
 
 {% include base_path %}
 
