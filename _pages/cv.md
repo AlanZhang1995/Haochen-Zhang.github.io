@@ -64,13 +64,13 @@ Research Projects
 * **Video Super-Resolution Tailored for Action Recognition**,  Sept. 2017 – Mar. 2019
   * MOE-Microsoft Key Laboratory of Multimedia Computing and Communication @ USTC, PI: Dr. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)
   * Investigated the video super-resolution (SR) problem for facilitating video analytics tasks rather than for visual quality. 
-  * Tailored for two-stream action recognition networks, we developed SR methods for the spatial and temporal recognition respectively. On the one hand, we proposed_ an optical-flow guided weighted MSE_ to emphasize the reconstruction of moving objects. On the other hand, we proposed _a siamese network training strategy_ in order to guarantee the temporal continuity between consecutive frames. 
+  * Tailored for two-stream action recognition networks, we developed SR methods for the spatial and temporal recognition respectively. On the one hand, we proposed _an optical-flow guided weighted MSE_ to emphasize the reconstruction of moving objects. On the other hand, we proposed _a siamese network training strategy_ in order to guarantee the temporal continuity between consecutive frames. 
   * This work has been published in ICCV 2019.
 
 * **Text Image Super-Resolution Tailored for OCR**,  Sept. 2016 – June 2017
   * MOE-Microsoft Key Laboratory of Multimedia Computing and Communication @ USTC, PI: Dr. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)
   * Developed text image SR method to help optical character recognition (OCR). 
-  * We proposed _an edge-based loss function_ for SR training and conducted model combination to further improve the performance. Besides, we also developed _an image padding method to refine the image boundaries during SR. 
+  * We proposed _an edge-based loss function_ for SR training and conducted model combination to further improve the performance. Besides, we also developed _an image padding method_ to refine the image boundaries during SR. 
   * This work has been published in VCIP 2017.
   
 
