@@ -2,7 +2,7 @@
 title: "2D and 3D Retina OCT Angiography Images Classification"
 collection: projects
 permalink: /projects/2021-12-retina_OCTA
-excerpt: "<img src='/images/bio-photo.jpg'>"
+excerpt: "<img src='/Haochen-Zhang.github.io/images/bio-photo.jpg'>"
 date: 2021-12-01
 ---
 
