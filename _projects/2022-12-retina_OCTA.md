@@ -1,10 +1,10 @@
 ---
 title: "2D and 3D Retina OCT Angiography Images Classification222"
 collection: projects
-permalink: /projects/2022-12-retina_OCTA
 excerpt: "<img src='/Haochen-Zhang.github.io/images/bio-photo.jpg'>"
-date: 2022-12-01
 ---
+
+233333333
 
 [Journal Paper](https://ieeexplore.ieee.org/abstract/document/9357976) &#124; [Conference Paper](https://ieeexplore.ieee.org/abstract/document/9054077) &#124; [Slides](https://yiqian-wang.github.io/files/ICASSP_slides_final.pdf)
 
