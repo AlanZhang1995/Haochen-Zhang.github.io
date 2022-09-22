@@ -1,6 +1,6 @@
 ---
 title: "Multimodal retinal image registration"
-excerpt: "<img src='/Haochen-Zhang.github.io/images/retina_registration_cover.png'>"
+excerpt: "<img src='/Haochen-Zhang.github.io/images/pub_fig3_1.png'>"
 collection: projects
 ---
 
