@@ -1,7 +1,8 @@
 ---
 title: "Multimodal retinal image registration"
-excerpt: "<img src='/images/bio-photo.jpg'>"
 collection: projects
+excerpt: "<img src='/images/bio-photo.jpg'>"
+date: 2021-12-01
 ---
 
 [Journal Paper](https://ieeexplore.ieee.org/abstract/document/9357976) &#124; [Conference Paper](https://ieeexplore.ieee.org/abstract/document/9054077) &#124; [Slides](https://yiqian-wang.github.io/files/ICASSP_slides_final.pdf)
