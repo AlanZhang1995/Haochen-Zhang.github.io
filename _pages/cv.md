@@ -78,12 +78,12 @@ Publications
 ======
 Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//publications/) page.
 
-[1] Wei Wang $^\dagger$, **Haochen Zhang** $^\dagger$, Zehuan Yuan $^*$, Changhu Wang. [Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf), In ICCV, Virtual. Oct.11-17, 2021.
+[1] Wei Wang $^\dagger$, **Haochen Zhang** $^\dagger$, Zehuan Yuan $^*$, Changhu Wang. [Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf), In _ICCV_, Virtual. Oct.11-17, 2021.
 
-[2] Dong Liu $^*$, **Haochen Zhang**, Zhiwei Xiong. [On the Classification-Distortion-Perception Tradeoff](https://papers.nips.cc/paper/2019/file/6c29793a140a811d0c45ce03c1c93a28-Paper.pdf), In NeurIPS, Vancouver, Canada. Dec.8-14, 2019.
+[2] Dong Liu $^*$, **Haochen Zhang**, Zhiwei Xiong. [On the Classification-Distortion-Perception Tradeoff](https://papers.nips.cc/paper/2019/file/6c29793a140a811d0c45ce03c1c93a28-Paper.pdf), In _NeurIPS_, Vancouver, Canada. Dec.8-14, 2019.
 
-[3] **Haochen Zhang**, Dong Liu $^*$, Zhiwei Xiong. [Two-Stream Action Recognition-Oriented Video Super-Resolution](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Two-Stream_Action_Recognition-Oriented_Video_Super-Resolution_ICCV_2019_paper.pdf), In ICCV, Seoul, Korea. Oct.27-Nov.2, 2019.
+[3] **Haochen Zhang**, Dong Liu $^*$, Zhiwei Xiong. [Two-Stream Action Recognition-Oriented Video Super-Resolution](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Two-Stream_Action_Recognition-Oriented_Video_Super-Resolution_ICCV_2019_paper.pdf), In _ICCV_, Seoul, Korea. Oct.27-Nov.2, 2019.
 
-[4] **Haochen Zhang**, Dong Liu $^*$, Zhiwei Xiong. [CNN-based Text Image Super-Resolution Tailored for OCR](https://ieeexplore.ieee.org/abstract/document/8305127), In VCIP, St. Petersburg, FL, USA. Dec.10-13, 2017. 
+[4] **Haochen Zhang**, Dong Liu $^*$, Zhiwei Xiong. [CNN-based Text Image Super-Resolution Tailored for OCR](https://ieeexplore.ieee.org/abstract/document/8305127), In _VCIP_, St. Petersburg, FL, USA. Dec.10-13, 2017. 
 
 <p align="right"> $^*$ denotes my advisor, $^\dagger$ denotes equal contribution co-author </p>
