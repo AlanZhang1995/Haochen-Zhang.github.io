@@ -38,7 +38,7 @@ Internship
     * Searching the best simulation degradation for real world super-resolution.
 
 
-Research Projects
+Research Experience
 ======
 * **2D and 3D Retina OCT Angiography images classification**, Dec. 2021 – Present
   * Video Processing Lab @ UCSD, PI: Dr. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu/?page_id=40)
