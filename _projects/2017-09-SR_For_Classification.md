@@ -1,13 +1,9 @@
 ---
-title: "2D and 3D Retina OCT Angiography Images Classification222"
+title: "Super Resolution"
 collection: projects
-excerpt: "<img src='/Haochen-Zhang.github.io/images/bio-photo.jpg'>"
+excerpt: "<img src='/Haochen-Zhang.github.io/images/SR-cover.png'>"
 ---
 
-233333333
+Under construction...
 
-[Journal Paper](https://ieeexplore.ieee.org/abstract/document/9357976) &#124; [Conference Paper](https://ieeexplore.ieee.org/abstract/document/9054077) &#124; [Slides](https://yiqian-wang.github.io/files/ICASSP_slides_final.pdf)
-
-{% include image.html url="/Haochen-Zhang.github.io/images/bio-photo.jpg" description="Proposed learning-based registration framework" %}
-
-Detect and differentiate active and inactive choroidal neovascularization (CNV) in different stages of age-related macular degeneration (AMD) using Optical Coherence Tomography Angiography (OCTA) scans. It is like a fine-grained classification problem since the categories belong to one disease but in different stages. The challenges are small dataset with unbalanced distribution and potential retina layer segmentation errors.
+See brief introduction on [Curriculum Vitae page](https://alanzhang1995.github.io/Haochen-Zhang.github.io//cv/), Research Experience section
