@@ -1,5 +1,5 @@
 ---
-title: "Super Resolution"
+title: "Research Related to Super Resolution"
 collection: projects
 excerpt: "<img src='/Haochen-Zhang.github.io/images/SR-cover.png'>"
 ---
