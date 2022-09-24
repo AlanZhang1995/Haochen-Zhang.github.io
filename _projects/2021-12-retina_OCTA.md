@@ -1,6 +1,6 @@
 ---
-title: "Multimodal retinal image registration"
-excerpt: "<img src='/Haochen-Zhang.github.io/images/pub_fig3_1.png'>"
+title: "Retina OCT Angiography Images Classification"
+excerpt: "<img src='/Haochen-Zhang.github.io/images/SR-cover.png'>"
 collection: projects
 ---
 
@@ -8,17 +8,4 @@ collection: projects
 
 {% include image.html url="/Haochen-Zhang.github.io/images/pub_fig3_1.png" description="Proposed learning-based registration framework" %}
 
-Multimodal retinal imaging plays an important role in ophthalmology. We propose a content-adaptive multimodal retinal image registration method in this paper that focuses on the globally coarse alignment and includes three weakly supervised neural networks for vessel segmentation, feature detection and description, and outlier rejection. We apply the proposed framework to register color fundus images with infrared reflectance and fluorescein angiography images, and compare it with several conventional and deep learning methods. Our proposed framework demonstrates a significant improvement in robustness and accuracy reflected by a higher success rate and Dice coefficient compared with other methods.
-
-Citation: 
-```
-@article{wang2021robust,
-  title={Robust Content-Adaptive Global Registration for Multimodal Retinal Images Using Weakly Supervised Deep-Learning Framework},
-  author={Wang, Yiqian and Zhang, Junkang and Cavichini, Melina and Bartsch, Dirk-Uwe G and Freeman, William R and Nguyen, Truong Q and An, Cheolhong},
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={3167--3178},
-  year={2021},
-  publisher={IEEE}
-}
-```
+Detect and differentiate active and inactive choroidal neovascularization (CNV) in different stages of age-related macular degeneration (AMD) using Optical Coherence Tomography Angiography (OCTA) scans. It is like a fine-grained classification problem since the categories belong to one disease but in different stages. The challenges are small dataset with unbalanced distribution and potential retina layer segmentation errors.
