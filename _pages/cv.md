@@ -52,7 +52,7 @@ Research Experience
   * Detect and differentiate active and inactive choroidal neovascularization (CNV) in different stages of age-related macular degeneration (AMD) using Optical Coherence Tomography Angiography (OCTA) scans.
   * It is like a fine-grained classification problem since the categories belong to one disease but in different stages. 
   * The challenges are small dataset with unbalanced distribution and potential retina layer segmentation errors.
-  * One paper has been published in ICCVW 2023 [5].
+  * One paper has been published in ICCVW 2023 [6]. Please also refer to our clinical paper [5].
 
 * **Domain Adaptation based Unpaired Super-Resolution**, Nov. 2020 – Apr. 2021
   * ByteDance AI Lab @ Beijing, PI: Dr. [Zehuan Yuan](https://shallowyuan.github.io/)
@@ -96,6 +96,8 @@ Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//p
 
 [4] Wei Wang $^\dagger$, **Haochen Zhang** $^\dagger$, Zehuan Yuan $^*$, Changhu Wang. [Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf), In _ICCV_, Virtual. Oct.11-17, 2021.
 
-[5] **Haochen Zhang**, Anna Heinke, Carlo Galang, Daniel Deussen, Bo Wen, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [Robust AMD Stage Grading with Exclusively OCTA Modality Leveraging 3D Volume](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Zhang_Robust_AMD_Stage_Grading_with_Exclusively_OCTA_Modality_Leveraging_3D_ICCVW_2023_paper.pdf), In _ICCVW_, Paris, France. Oct.2-Oct.6, 2023.
+[5] Anna Heinke, **Haochen Zhang**, Daniel Deussen, Carlo Galang, Alexandra Warter, Fritz Kalaw, Dirk-Uwe Bartsch, Lingyun Cheng, Cheolhong An $^* $, Truong Nguyen $^* $, William Freeman. [Artificial intelligence for OCTA-based disease activity prediction in age-related macular degeneration](https://journals.lww.com/retinajournal/abstract/9900/artificial_intelligence_for_octa_based_disease.505.aspx), In _RETINA_, 2022.
+
+[6] **Haochen Zhang**, Anna Heinke, Carlo Galang, Daniel Deussen, Bo Wen, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [Robust AMD Stage Grading with Exclusively OCTA Modality Leveraging 3D Volume](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Zhang_Robust_AMD_Stage_Grading_with_Exclusively_OCTA_Modality_Leveraging_3D_ICCVW_2023_paper.pdf), In _ICCVW_, Paris, France. Oct.2-Oct.6, 2023.
 
 <p align="right"> $^*$ denotes my advisor, $^\dagger$ denotes equal contribution co-author </p>
