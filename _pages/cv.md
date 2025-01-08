@@ -30,7 +30,15 @@ Education
 
 Internship
 ======
-* **Advanced Analytic Intern**, May. 2023 – Aug. 2023
+* **AI Research Scientist Intern**, June 2023 – Nov. 2023
+  * GenAI, Meta, Menlo Park
+  * Mentor: Dr. [Zecheng He](https://zechenghe.github.io/)
+  * Enhanced phrase-to-patch correspondence by refining a multimodal LLM capable of processing text-image interleaved inputs and outputs. Unleashed MLLM's capability in reasoning based image generation.
+    * Adopt MLLM for conditional image generation, such as image editing and human subject driven image generation;
+    * Designed and built non-Markov multi-turn image editing dataset and name-based multi-turn personalization dataset.
+    * One paper submitted to CVPR2025
+
+* **Advanced Analytic Intern**, May 2023 – Aug. 2023
   * OXY Petroleum, Houston
   * PI: Dr. Nikolaos Mitsakos, Dr. Ahmad Mustafa, Dr. Daniel De Lilla
   * Adopted segmentation network for seismic horizon tracking task, seeking to alleviate the interpretation burden on geologists dealing with 3D volumetric data. 
@@ -50,9 +58,9 @@ Research Experience
 * **2D and 3D Retina OCT Angiography images classification**, Dec. 2021 – Present
   * Video Processing Lab @ UCSD, PI: Dr. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu/?page_id=40)
   * Detect and differentiate active and inactive choroidal neovascularization (CNV) in different stages of age-related macular degeneration (AMD) using Optical Coherence Tomography Angiography (OCTA) scans.
-  * It is like a fine-grained classification problem since the categories belong to one disease but in different stages. 
   * The challenges are small dataset with unbalanced distribution and potential retina layer segmentation errors.
-  * One paper has been published in ICCVW 2023 [6]. Please also refer to our clinical paper [5].
+  * For Heidberg OCTA instrument, we conducted the first study to exclusively use OCTA data for AMD stage grading, demonstrating the modality's diagnostic potential: Identified segmentation errors in retinal layers as a critical challenge for accurate classification using 2D OCTA projections; Proposed a novel approach of analyzing 3D OCTA volumes with 2D convolutional neural networks trained with additional projection supervision; Showed superior AI performance compared to human experts in grading AMD stages. One paper has been published in ICCVW 2023 [6]. Please also refer to our clinical paper [5].
+  * For cross-instrument data, Heidberg and Optovue, we explored cross-instrument disease classification by training DNN models on separate and combined datasets from both instruments: Employed style transfer techniques to generate cross-domain samples; Introduced a novel class-conditioned CycleGAN that integrates class-related constraints during training to optimize the generated samples for downstream classification tasks. One paper has been published in EMBC 2024 [7]. Please also refer to our clinical paper [8].
 
 * **Domain Adaptation based Unpaired Super-Resolution**, Nov. 2020 – Apr. 2021
   * ByteDance AI Lab @ Beijing, PI: Dr. [Zehuan Yuan](https://shallowyuan.github.io/)
@@ -99,5 +107,9 @@ Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//p
 [5] Anna Heinke, **Haochen Zhang**, Daniel Deussen, Carlo Galang, Alexandra Warter, Fritz Kalaw, Dirk-Uwe Bartsch, Lingyun Cheng, Cheolhong An $^* $, Truong Nguyen $^* $, William Freeman. [Artificial intelligence for OCTA-based disease activity prediction in age-related macular degeneration](https://journals.lww.com/retinajournal/abstract/9900/artificial_intelligence_for_octa_based_disease.505.aspx), In _RETINA_, 2022.
 
 [6] **Haochen Zhang**, Anna Heinke, Carlo Galang, Daniel Deussen, Bo Wen, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [Robust AMD Stage Grading with Exclusively OCTA Modality Leveraging 3D Volume](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Zhang_Robust_AMD_Stage_Grading_with_Exclusively_OCTA_Modality_Leveraging_3D_ICCVW_2023_paper.pdf), In _ICCVW_, Paris, France. Oct.2-Oct.6, 2023.
+
+[7] **Haochen Zhang**, Anna Heinke, Krzysztof Broniarek, Carlo Galang, Daniel Deussen, Ines Nagel, Katarzyna Michalska-Małecka, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [OCTA-based AMD Stage Grading Enhancement via Class-Conditioned Style Transfer](https://ieeexplore.ieee.org/abstract/document/10782262), In EMBC, Orlando, FL, USA. July.15-July.19, 2024.
+
+[8] Anna Heinke, **Haochen Zhang**, Krzysztof Broniarek, Katarzyna Michalska-Małecka, Wyatt Elsner, Carlo Galang, Daniel Deussen, Alexandra Warter, Fritz Kalaw, Ines Nagel, Akshay Agnihotri, Nehal Mehta, Julian Elias Klaas, Valerie Schmelter, Igor Kozak, Sally L Baxter, Dirk-Uwe Bartsch, Lingyun Cheng, Cheolhong An $^* $, Truong Nguyen $^* $, William Freeman. [Cross-instrument optical coherence tomography-angiography (OCTA)-based prediction of age-related macular degeneration (AMD) disease activity using artificial intelligence](https://www.nature.com/articles/s41598-024-78327-0), In _Scientific Reports_, 2024.
 
 <p align="right"> $^*$ denotes my advisor, $^\dagger$ denotes equal contribution co-author </p>
