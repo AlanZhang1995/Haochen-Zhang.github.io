@@ -30,13 +30,13 @@ Education
 
 Internship
 ======
-* **AI Research Scientist Intern**, June 2023 – Nov. 2023
+* **AI Research Scientist Intern**, June 2024 – Nov. 2024
   * GenAI, Meta, Menlo Park
   * Mentor: Dr. [Zecheng He](https://zechenghe.github.io/)
   * Enhanced phrase-to-patch correspondence by refining a multimodal LLM capable of processing text-image interleaved inputs and outputs. Unleashed MLLM's capability in reasoning based image generation.
     * Adopt MLLM for conditional image generation, such as image editing and human subject driven image generation;
     * Designed and built non-Markov multi-turn image editing dataset and name-based multi-turn personalization dataset.
-    * One paper submitted to CVPR2025
+    * One paper submitted to CVPR 2025
 
 * **Advanced Analytic Intern**, May 2023 – Aug. 2023
   * OXY Petroleum, Houston
