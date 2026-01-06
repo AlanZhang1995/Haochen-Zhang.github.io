@@ -60,7 +60,7 @@ Work Experience
 
 Research Experience
 ======
-* **Auto-aggressive based conversational image generation**, June 2024 – Nov. 2024
+* **Auto-aggressive conversational image generation**, June 2024 – Nov. 2024
   * Meta GenAI @ Menlo Park, Mentor: Dr. [Zecheng He](https://zechenghe.github.io/)
   * ToDo  [10]
 
