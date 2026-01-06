@@ -127,6 +127,6 @@ Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//p
 
 [9] **Haochen Zhang**, Anna Heinke, Ines Nagel, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [Class-Conditioned Image Synthesis with Diffusion for Imbalanced Diabetic Retinopathy Grading](https://papers.miccai.org/miccai-2025/paper/4449_paper.pdf), In _MICCAI_, Daejeon, South Korea, Sept.23-27, 2025.
 
-[10] **Haochen Zhang**, Animesh Sinha, Felix Juefei-Xu, Haoyu Ma, Kunpeng Li, Zhipeng Fan, Xiaoliang Dai, Tingbo Hou, Peizhao Zhang, Zecheng He $^*$. [Conversational Image Generation: Towards Multi-Round Personalized Generation with Multi-Modal Language Models](https://github.com/AlanZhang1995/Haochen-Zhang.github.io/blob/master/files/WACV26_paper.pdf), In _WACV_, Tucson, Arizona, USA, March 6-10, 2026.
+[10] **Haochen Zhang**, Animesh Sinha, Felix Juefei-Xu, Haoyu Ma, Kunpeng Li, Zhipeng Fan, Xiaoliang Dai, Tingbo Hou, Peizhao Zhang, Zecheng He $^*$. [Conversational Image Generation: Towards Multi-Round Personalized Generation with Multi-Modal Language Models](https://alanzhang1995.github.io/Haochen-Zhang.github.io/files/WACV26_paper.pdf), In _WACV_, Tucson, Arizona, USA, March 6-10, 2026.
 
 <p align="right"> $^*$ denotes my advisor, $^\dagger$ denotes equal contribution co-author </p>
