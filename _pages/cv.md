@@ -64,7 +64,7 @@ Research Experience
   * Meta GenAI @ Menlo Park, Mentor: Dr. [Zecheng He](https://zechenghe.github.io/)
   * ToDo  [10]
 
-* **Diffusion based fundus image synthesis for imbalanced diabetic retinopathy grading**, Dec. 2021 – Feb. 2024
+* **Diffusion based fundus image synthesis for imbalanced diabetic retinopathy grading**, Mar. 2024 – Apr. 2025
   * Video Processing Lab @ UCSD, PI: Dr. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu/?page_id=40)
   * ToDo  [9]
 
