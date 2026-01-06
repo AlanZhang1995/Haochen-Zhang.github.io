@@ -111,7 +111,7 @@ Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//p
 
 [1] **Haochen Zhang**, Dong Liu $^*$, Zhiwei Xiong. [CNN-based Text Image Super-Resolution Tailored for OCR](https://ieeexplore.ieee.org/abstract/document/8305127), In _VCIP_, St. Petersburg, FL, USA. Dec.10-13, 2017. 
 
-[2] **Haochen Zhang**, Dong Liu $^*$, Zhiwei Xiong. [Two-Stream Action Recognition-Oriented Video Super-Resolution](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Two-Stream_Action_Recognition-Oriented_Video_Super-Resolution_ICCV_2019_paper.pdf), In _ICCV_, Seoul, Korea. Oct.27-Nov.2, 2019.
+[2] **Haochen Zhang**, Dong Liu $^*$, Zhiwei Xiong. [Two-Stream Action Recognition-Oriented Video Super-Resolution](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Two-Stream_Action_Recognition-Oriented_Video_Super-Resolution_ICCV_2019_paper.pdf), In _ICCV_, Seoul, South Korea. Oct.27-Nov.2, 2019.
 
 [3] Dong Liu $^*$, **Haochen Zhang**, Zhiwei Xiong. [On the Classification-Distortion-Perception Tradeoff](https://papers.nips.cc/paper/2019/file/6c29793a140a811d0c45ce03c1c93a28-Paper.pdf), In _NeurIPS_, Vancouver, Canada. Dec.8-14, 2019.
 
@@ -119,10 +119,14 @@ Also see [pulication](https://alanzhang1995.github.io/Haochen-Zhang.github.io//p
 
 [5] Anna Heinke, **Haochen Zhang**, Daniel Deussen, Carlo Galang, Alexandra Warter, Fritz Kalaw, Dirk-Uwe Bartsch, Lingyun Cheng, Cheolhong An $^* $, Truong Nguyen $^* $, William Freeman. [Artificial intelligence for OCTA-based disease activity prediction in age-related macular degeneration](https://journals.lww.com/retinajournal/abstract/9900/artificial_intelligence_for_octa_based_disease.505.aspx), In _RETINA_, 2022.
 
-[6] **Haochen Zhang**, Anna Heinke, Carlo Galang, Daniel Deussen, Bo Wen, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [Robust AMD Stage Grading with Exclusively OCTA Modality Leveraging 3D Volume](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Zhang_Robust_AMD_Stage_Grading_with_Exclusively_OCTA_Modality_Leveraging_3D_ICCVW_2023_paper.pdf), In _ICCVW_, Paris, France. Oct.2-Oct.6, 2023.
+[6] **Haochen Zhang**, Anna Heinke, Carlo Galang, Daniel Deussen, Bo Wen, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [Robust AMD Stage Grading with Exclusively OCTA Modality Leveraging 3D Volume](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Zhang_Robust_AMD_Stage_Grading_with_Exclusively_OCTA_Modality_Leveraging_3D_ICCVW_2023_paper.pdf), In _ICCVW_, Paris, France. Oct.2-6, 2023.
 
-[7] **Haochen Zhang**, Anna Heinke, Krzysztof Broniarek, Carlo Galang, Daniel Deussen, Ines Nagel, Katarzyna Michalska-Małecka, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [OCTA-based AMD Stage Grading Enhancement via Class-Conditioned Style Transfer](https://ieeexplore.ieee.org/abstract/document/10782262), In _EMBC_, Orlando, FL, USA. July.15-July.19, 2024.
+[7] **Haochen Zhang**, Anna Heinke, Krzysztof Broniarek, Carlo Galang, Daniel Deussen, Ines Nagel, Katarzyna Michalska-Małecka, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [OCTA-based AMD Stage Grading Enhancement via Class-Conditioned Style Transfer](https://ieeexplore.ieee.org/abstract/document/10782262), In _EMBC_, Orlando, FL, USA. July 15-19, 2024.
 
 [8] Anna Heinke, **Haochen Zhang**, Krzysztof Broniarek, Katarzyna Michalska-Małecka, Wyatt Elsner, Carlo Galang, Daniel Deussen, Alexandra Warter, Fritz Kalaw, Ines Nagel, Akshay Agnihotri, Nehal Mehta, Julian Elias Klaas, Valerie Schmelter, Igor Kozak, Sally L Baxter, Dirk-Uwe Bartsch, Lingyun Cheng, Cheolhong An $^* $, Truong Nguyen $^* $, William Freeman. [Cross-instrument optical coherence tomography-angiography (OCTA)-based prediction of age-related macular degeneration (AMD) disease activity using artificial intelligence](https://www.nature.com/articles/s41598-024-78327-0), In _Scientific Reports_, 2024.
+
+[9] **Haochen Zhang**, Anna Heinke, Ines Nagel, Dirk-Uwe Bartsch, William Freeman, Truong Nguyen $^* $, Cheolhong An $^* $. [Class-Conditioned Image Synthesis with Diffusion for Imbalanced Diabetic Retinopathy Grading](https://papers.miccai.org/miccai-2025/paper/4449_paper.pdf), In _MICCAI_, Daejeon, South Korea, Sept.23-27, 2025.
+
+[10] **Haochen Zhang**, Animesh Sinha, Felix Juefei-Xu, Haoyu Ma, Kunpeng Li, Zhipeng Fan, Xiaoliang Dai, Tingbo Hou, Peizhao Zhang, Zecheng He $^*$. [Conversational Image Generation: Towards Multi-Round Personalized Generation with Multi-Modal Language Models](https://github.com/AlanZhang1995/Haochen-Zhang.github.io/blob/master/files/WACV26_paper.pdf), In _WACV_, Tucson, Arizona, USA, March 6-10, 2026.
 
 <p align="right"> $^*$ denotes my advisor, $^\dagger$ denotes equal contribution co-author </p>
