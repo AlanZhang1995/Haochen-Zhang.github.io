@@ -13,30 +13,34 @@ redirect_from:
 
 Education
 ======
-* **University of California San Diego**, Sept. 2020 - Present
-  * Ph.D in Electrical and Computer Engineering, Current overall GPA: 4.0/4.0
-  * Advisor: Prof. [Truong Q. Nguyen](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=48)
-  * Research: Deep learning based retinal image analysis
+* **University of California San Diego**, Sept. 2020 - June 2025
+  * Ph.D in Electrical Engineering, Overall GPA: 4.0/4.0
+  * Advisor: Prof. [Truong Q. Nguyen](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=48), [VP Lab](https://sites.google.com/view/ucsdvpl/)
+  * Research: Advancing Automated AMD Stage Grading with 2D and 3D Retinal OCTA Imaging ([link](https://escholarship.org/uc/item/8zc6x3vz))
 
 * **University of Science and Technology of China**, Sept. 2017 - July 2020
-  * Master in Electrical Engineering, Overall GPA: 4.01/4.3
-  * Advisor: Prof. [Dong Liu](https://faculty.ustc.edu.cn/dongeliu/en/index/85593/list/index.htm)
-  * Research: Deep learning based image and video super-resolution
+  * Master in Information and Communication Engineering, Overall GPA: 4.01/4.3
+  * Advisor: Prof. [Dong Liu](https://faculty.ustc.edu.cn/dongeliu/en/index/85593/list/index.htm), [VIDAR Group](https://vidar-ustc.github.io/)
+  * Research: Action recognition oriented video super-resolution
 
 * **University of Science and Technology of China**, Aug. 2013 - June 2017
-  * B.S. in Electrical Engineering, Overall GPA: 3.73/4.3
+  * B.S. in Electronic and Information Engineering, Overall GPA: 3.73/4.3
 
 
 
-Internship
+Work Experience
 ======
+* **Applied Scientist**, July 2025 – Present
+  * AGI, Amazon, Sunnyvale
+  * Working on video generation, video understanding, multi-modal knowledge.
+
 * **AI Research Scientist Intern**, June 2024 – Nov. 2024
   * GenAI, Meta, Menlo Park
   * Mentor: Dr. [Zecheng He](https://zechenghe.github.io/)
   * Enhanced phrase-to-patch correspondence by refining a multimodal LLM capable of processing text-image interleaved inputs and outputs. Unleashed MLLM's capability in reasoning based image generation.
     * Adopt MLLM for conditional image generation, such as image editing and human subject driven image generation;
     * Designed and built non-Markov multi-turn image editing dataset and name-based multi-turn personalization dataset.
-    * One paper submitted to CVPR 2025
+    * One paper accepted by WACV 2026 [10]
 
 * **Advanced Analytic Intern**, May 2023 – Aug. 2023
   * OXY Petroleum, Houston
@@ -51,11 +55,20 @@ Internship
   * Trial-and-error: Proposed and implemented many ideas in computer vision field, especially low-level vision. 
     * For example, using knowledge distillation as implicit prior for super-resolution;
     * Searching the best simulation degradation for real world super-resolution.
+    * One paper published in ICCV 2021 [4].
 
 
 Research Experience
 ======
-* **2D and 3D Retina OCT Angiography images classification**, Dec. 2021 – Present
+* **Auto-aggressive based conversational image generation**, June 2024 – Nov. 2024
+  * Meta GenAI @ Menlo Park, Mentor: Dr. [Zecheng He](https://zechenghe.github.io/)
+  * ToDo  [10]
+
+* **Diffusion based fundus image synthesis for imbalanced diabetic retinopathy grading**, Dec. 2021 – Feb. 2024
+  * Video Processing Lab @ UCSD, PI: Dr. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu/?page_id=40)
+  * ToDo  [9]
+
+* **2D and 3D Retina OCT Angiography images classification**, Dec. 2021 – Feb. 2024
   * Video Processing Lab @ UCSD, PI: Dr. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu/?page_id=40)
   * Detect and differentiate active and inactive choroidal neovascularization (CNV) in different stages of age-related macular degeneration (AMD) using Optical Coherence Tomography Angiography (OCTA) scans.
   * The challenges are small dataset with unbalanced distribution and potential retina layer segmentation errors.
@@ -63,7 +76,7 @@ Research Experience
   * For cross-instrument data, Heidberg and Optovue, we explored cross-instrument disease classification by training DNN models on separate and combined datasets from both instruments: Employed style transfer techniques to generate cross-domain samples; Introduced a novel class-conditioned CycleGAN that integrates class-related constraints during training to optimize the generated samples for downstream classification tasks. One paper has been published in EMBC 2024 [7]. Please also refer to our clinical paper [8].
 
 * **Domain Adaptation based Unpaired Super-Resolution**, Nov. 2020 – Apr. 2021
-  * ByteDance AI Lab @ Beijing, PI: Dr. [Zehuan Yuan](https://shallowyuan.github.io/)
+  * ByteDance AI Lab @ Beijing, Mentor: Dr. [Zehuan Yuan](https://shallowyuan.github.io/)
   * Formulated unpaired SR training as a feature-level domain adaptation problem, where the given LR images can be regard as the inputs in target domain and the provided HR images can be seen as label in source domain. 
   * Adopted adversarial-based _feature distribution alignment_ to close the gap between source and target feature domains, and proposed several _feature domain regularizations_ to achieve better aligning performance as well as preserve image details for the downstream SR task. 
   * This work has been published in ICCV 2021 [4].
