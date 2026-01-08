@@ -72,7 +72,8 @@ Research Experience
   * Video Processing Lab @ UCSD, PI: Dr. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu/?page_id=40)
   * Proposed a diffusion-based data synthesis framework for imbalanced diabetic retinopathy grading by fine-tuning a text-to-image diffusion model on fundus images using a DreamBooth-style strategy with semantic-aware supervision.
   * Introduced a semantic quality evaluation and self-supervised explicit class conditioning scheme to generate training samples that are diagnostically useful rather than merely visually realistic.
-  * Experiments show a substantial improvement in balanced accuracy (≈66.8% → 74.2%), outperforming oversampling and naive diffusion while reducing class-prior bias. This work has been published in MICCAI 2025 [9].
+  * Experiments show a substantial improvement in balanced accuracy (≈66.8% → 74.2%), outperforming oversampling and naive diffusion while reducing class-prior bias.
+  * This work has been published in MICCAI 2025 [9].
 
 * **2D and 3D Retina OCT Angiography images classification**, Dec. 2021 – Feb. 2024
   * Video Processing Lab @ UCSD, PI: Dr. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu/?page_id=40)
