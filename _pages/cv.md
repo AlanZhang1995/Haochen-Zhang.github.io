@@ -62,7 +62,10 @@ Research Experience
 ======
 * **Auto-aggressive conversational image generation**, June 2024 – Nov. 2024
   * Meta GenAI @ Menlo Park, Mentor: Dr. [Zecheng He](https://zechenghe.github.io/)
-  * ToDo  [10]
+  * Introduced conversational image generation, a new paradigm that enables multi-round personalized image generation through natural language interaction.
+  * Identify a key bottleneck in SEED-X MLLM framework—the visual detokenizer’s inability to preserve fine-grained facial identity. To address this, we replace the standard SDXL detokenizer with a personalization-enhanced DiT and propose a multi-stage instruction fine-tuning strategy that balances identity preservation and prompt editability.
+  * To support true multi-round personalization, we introduce a chat-history caching mechanism and constructs the first name-based multi-round personalization dataset from video clips, enabling the model to reason jointly over past text and image context.
+  * Experiments demonstrate state-of-the-art personalization performance among MLLM-based methods and show, for the first time, that MLLMs can reliably generate personalized images across multiple conversational turns. This paper has been accepted by WACV 2026 [10].
 
 * **Diffusion based fundus image synthesis for imbalanced diabetic retinopathy grading**, Mar. 2024 – Apr. 2025
   * Video Processing Lab @ UCSD, PI: Dr. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu/?page_id=40)
