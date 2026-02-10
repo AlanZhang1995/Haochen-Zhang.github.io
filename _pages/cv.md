@@ -32,7 +32,7 @@ Work Experience
 ======
 * **Applied Scientist**, July 2025 – Present
   * AGI, Amazon, Sunnyvale
-  * Working on data preparation thread for
+  * Mainly working on data preparation thread for
     * video generation;
     * video understanding in VLLM (logos and celebrity localization);
     * multi-modal knowledge (recognizing landmarks instead of saying just a "park").
