@@ -32,7 +32,7 @@ Work Experience
 ======
 * **Applied Scientist**, July 2025 – Present
   * AGI, Amazon, Sunnyvale
-  * Working on video generation, video understanding, multi-modal knowledge.
+  * Working on data preparation thread for video generation, video understanding (logos and celebrity localization in VLLM), multi-modal knowledge (recognizing landmarks instead of saying just a "park").
 
 * **AI Research Scientist Intern**, June 2024 – Nov. 2024
   * GenAI, Meta, Menlo Park
