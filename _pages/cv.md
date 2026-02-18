@@ -32,6 +32,7 @@ Work Experience
 ======
 * **Applied Scientist**, July 2025 – Present
   * AGI, Amazon, Sunnyvale
+  * Contributed to multimodal LLM and image/video generative model development through large-scale data curation, distributed post-training, and standardized benchmark evaluation.
   * **Data**:
     * Designed and delivered multi-million–scale PT/SFT datasets for Nova 2.0 (VLLM), including 1.36M logo videos, 377K celebrity localization samples, and a 200M knowledge-enriched concept dataset (logos, landmarks, animals, plants, fungi).
     * Developed scalable multi-stage caption rewriting pipelines.
@@ -46,9 +47,9 @@ Work Experience
 * **AI Research Scientist Intern**, June 2024 – Nov. 2024
   * GenAI, Meta, Menlo Park
   * Mentor: Dr. [Zecheng He](https://zechenghe.github.io/)
-  * Enhanced phrase-to-patch correspondence by refining a multimodal LLM capable of processing text-image interleaved inputs and outputs. Unleashed MLLM's capability in reasoning based image generation.
-    * Adopt MLLM for conditional image generation, such as image editing and human subject driven image generation;
-    * Designed and built non-Markov multi-turn image editing dataset and name-based multi-turn personalization dataset.
+  * Proposed and built a non-Markov conversational image generation framework that conditions on full interleaved text–image history, enabling rollback editing and name-based identity retrieval across multi-turn dialogues.
+    * Designed two non-Markov multi-round datasets: rollback-style non-markov multi-round editing and name-based non-markov multi-round personalization)
+    * Improved identity consistency via token-level caching, a DiT-based high-fidelity image detokenizer, and multi-stage instruction fine-tuning, significantly enhancing multi-round editing reliability and personalization stability.
     * One paper accepted by WACV 2026 [10]
 
 * **Advanced Analytic Intern**, May 2023 – Aug. 2023
