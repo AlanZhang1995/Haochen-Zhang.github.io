@@ -32,10 +32,16 @@ Work Experience
 ======
 * **Applied Scientist**, July 2025 – Present
   * AGI, Amazon, Sunnyvale
-  * Mainly working on data preparation thread for
-    * video generation;
-    * video understanding in VLLM (logos and celebrity localization);
-    * multi-modal knowledge (recognizing landmarks instead of saying just a "park").
+  * **Data**:
+    * Designed and delivered multi-million–scale PT/SFT datasets for Nova 2.0 (VLLM), including 1.36M logo videos, 377K celebrity localization samples, and a 200M knowledge-enriched concept dataset (logos, landmarks, animals, plants, fungi).
+    * Developed scalable multi-stage caption rewriting pipelines.
+    * Built a video semantic taxonomy framework to help content-aware curation for targeted semantic improvements.
+  * **Model**:
+    * Conducted fine-tuning and alignment experiments on 32–64 GPU nodes using PyTorch, validating new data through ablations to prevent regressions.
+    * Trained image generation models at scale on 32 nodes for data selection ablations.
+  * **Benchmark**:
+    * Onboarded and standardized evaluation across multimodal benchmarks: Maverix, VMME, MMMU, MLVU, LongVideo Reasoning, HourVideo, VCR-Bench, VideoHolmes, VideoMathQA.
+    * Built knowledge-enriched evaluation suites (logo, BioCLIP concepts, landmarks) to measure fine-grained concept alignment.
 
 * **AI Research Scientist Intern**, June 2024 – Nov. 2024
   * GenAI, Meta, Menlo Park
